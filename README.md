@@ -38,7 +38,6 @@ OpenWeatherMap API
 
 ## 📸 Screenshot
 
-(Add a screenshot of your application here)
 
 ## 🌐 Future Enhancements
 
@@ -51,5 +50,5 @@ OpenWeatherMap API
 
 Hemanth
 
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+GitHub: https://github.com/hemu04
+LinkedIn: https://www.linkedin.com/in/verupanda-hemanth
